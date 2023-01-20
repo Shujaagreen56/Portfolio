@@ -1,0 +1,22 @@
+
+ html { 
+    background-color: black;
+       }
+
+       
+html { display: flexbox;
+        flex-direction: column;
+        flex-wrap: inherit;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        color: antiquewhite;
+        display: block;
+        text-align: center; padding-right: 15px;  }
+.header { font-size: medium;}
+
+a:visited {text-decoration: none;
+color: antiquewhite }
+
+h1 div { display: flex;
+    flex-shrink: inherit;
+    flex-direction: row;
+}
